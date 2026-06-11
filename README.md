@@ -17,6 +17,10 @@ This repository contains implementations of common sorting algorithms in Java.
 1. Clone the repo:
    ```bash
    git clone https://github.com/Kajal-cse2028/sorting-algorithms-java.git
+2. Compile and run any file:
+   javac BinarySearch.java
+   java BinarySearch
+
 
 # 📊 Sorting Algorithms Comparison
 
